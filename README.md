@@ -34,11 +34,13 @@ LinkedIn: emmanuel-mensah
 
 
 ## 🤝 Contributing
-.Ehsan Qader
+. Ehsan Qader
+. Boostrap
 
 ## Acknowledgments
 
 - Microverse
+- Boostrap
 - Hat tip to anyone whose code was used
 - Inspiration
  
